@@ -1,0 +1,3 @@
+aiosseclient
+confluent_kafka
+opensearch_dsl
